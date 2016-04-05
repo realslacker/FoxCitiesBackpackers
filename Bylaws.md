@@ -280,6 +280,8 @@ These bylaws may be amended by the Organizers, and changes will take effect afte
 1. Approval by majority vote of present members of the leadership team at an in person meeting where at least three members of the leadership team are present OR
 2. Approval in an electronic format of 2/3 of the leadership team
 
+Additionally, these bylaws may be edited for spelling or punctuation and as long as the intent does not change the updated bylaws will automatically come into effect.
+
 ## 7.0 LICENSE <a id="section-7.0"></a>
 
 These bylaws are licensed under the [CC0 1.0 Universal (CC0 1.0) license](https://creativecommons.org/publicdomain/zero/1.0/). You may reuse them in any fashion for any purpose with no attribution.
