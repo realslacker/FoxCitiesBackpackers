@@ -23,7 +23,7 @@ Additionally, a member may be permanently removed from the group for:
 
 1.	**Conducting themselves in an unsafe manner, thereby putting themselves and/or others at risk of harm.** To do so willfully is cause for immediate removal from the group. To do so without intent, on more than one occasion and after being duly warned, is cause for immediate removal from the group.
 2.	**Conducting themselves in a manner that is disruptive to the group.** To be willfully disruptive, disrespectful, or denigrate another member of the group is cause for immediate suspension from the group pending a leadership review.
-3.	**Willful destruction of property.** Any willful destruction of public, group, or member property without express consent, whether resulting in financial or other losses or not, will be cause for immediate  suspension from the group pending a leadership review.
+3.	**Willful destruction of property.** Any willful destruction of private, public, group, or member property without express consent, whether resulting in financial or other losses or not, will be cause for immediate  suspension from the group pending a leadership review.
 4.	**Willful failure to follow planned group itinerary.** To purposefully, and without notice to the event leader, deviate from the planned group itinerary in such a way as to delay or inconvenience the group as a whole is grounds for leadership review.
 
 ### 2.3 REVIEW AND REMOVAL PROCEDURES <a id="section-2.3"></a>
