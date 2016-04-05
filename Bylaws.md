@@ -285,3 +285,5 @@ Additionally, these bylaws may be edited for spelling or punctuation and as long
 ## 7.0 LICENSE <a id="section-7.0"></a>
 
 These bylaws are licensed under the [CC0 1.0 Universal (CC0 1.0) license](https://creativecommons.org/publicdomain/zero/1.0/). You may reuse them in any fashion for any purpose with no attribution.
+
+*The latest version of these bylaws can be found on our [GitHub repo](https://github.com/realslacker/FoxCitiesBackpackers).*
