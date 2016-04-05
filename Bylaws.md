@@ -42,10 +42,10 @@ Group leadership is not here to dictate how you participate in the group. Member
 
 Beyond that we ask that group members observe the following code of conduct:
 
-1.	**Be Safe** – Do not endanger yourself or others
-2.	**Be Responsible** – Your actions affect the group as a whole, and we want to be seen as stewards of the areas we frequent
-3.	**Be Respectful and Tolerant** – We expect all group members to treat each other with respect and tolerance, we will not accept denigration, bigotry, racism, or sexism of any type
-4.	**Be Courteous** – We have limited trip slots and resources, do not take a spot on a trip "just in case", and especially for beginner trips give members with less experience a chance to sign up for trips and gain experience
+1.	**Be Safe** – Do not endanger yourself or others.
+2.	**Be Responsible** – Your actions affect the group as a whole, and we want to be seen as stewards of the areas we frequent.
+3.	**Be Respectful and Tolerant** – We expect all group members to treat each other with respect and tolerance, we will not accept denigration, bigotry, racism, or sexism of any type.
+4.	**Be Courteous** – We have limited trip slots and resources. Do not take a spot on a trip "just in case". This is especially important for beginner trips to give members with less experience a chance to advance.
 
 ## 3.0 LEADERSHIP <a id="section-3.0"></a>
 
