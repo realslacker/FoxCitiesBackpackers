@@ -273,6 +273,13 @@ What we cannot do:
 
 **This means that if an opening becomes available ANYONE can RSVP for that available spot on a first come first serve basis**
 
-## 6.0 LICENSE <a id="section-6.0"></a>
+## 6.0 BYLAWS <a id="section-6.0"></a>
+
+These bylaws may be amended by the Organizers, and changes will take effect after:
+
+1. Approval by majority vote of present members of the leadership team at an in person meeting where at least three members of the leadership team are present OR
+2. Approval in an electronic format of 2/3 of the leadership team
+
+## 7.0 LICENSE <a id="section-7.0"></a>
 
 These bylaws are licensed under the [CC0 1.0 Universal (CC0 1.0) license](https://creativecommons.org/publicdomain/zero/1.0/). You may reuse them in any fashion for any purpose with no attribution.
