@@ -238,9 +238,9 @@ Any excess money goes into the club reserve fund and is used for expenses such a
 
 We use the following formula to calculate fees:
 
-( Trip Expenses + ( Expected Trip Members x Event Fees Per Night x Trip Nights) ) / Expected Trip Members
+( Trip Expenses + ( Expected Trip Members x Event Fees ) ) / Expected Trip Members
 
-We charge a $5 per night event fee that covers the costs of running the group, and is charged in lieu of an annual membership fee. It’s a pay for use system. We want to encourage new members to come to meetings and socials and get to know people and know more about backpacking before committing any money to the club.
+We charge a $5 per event fee that covers the costs of running the group, and is charged in lieu of an annual membership fee. It’s a pay for use system. We want to encourage new members to come to meetings and socials and get to know people and know more about backpacking before committing any money to the club.
 
 When setting the cost of a trip, the shared costs of firewood, accommodations, transportation and such will be split based on maximum attendance for a trip. If participation doesn't meet the trip goal the group will make up the difference. This ensures that we can offer exciting trips to places that members might not be able to get to without splitting the costs.
 
